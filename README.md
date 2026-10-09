@@ -1,7 +1,10 @@
 # yulingxiong
+
 Tencent Expert researcher in AI algorithms
 
-ORCD：https://orcid.org/0009-0003-5055-2364
+11 年推荐算法研发经验，先后在百度、腾讯负责信息流、社交推荐与广告推荐三条亿级用户业务线，主导过生成式推荐、大模型 Scaling Up、大规模图模型等方向从 0 到 1 的搭建与规模化落地，相关工作产出 KDD、AAAI 等顶会论文多篇、专利近 20 项。mywiki系列中的判断不是单纯读论文归纳出来的，而是作者在实际业务里把这些架构演进脉络和硬件约束实践验证、落地之后的理论总结。
+
+MyORCD：https://orcid.org/0009-0003-5055-2364
 
 Papers：
 
